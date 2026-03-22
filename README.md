@@ -10,7 +10,7 @@
 
 ## 🛠️ Tecnologías utilizadas
 <div align="start">
-  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">Vite</p>
+  <div style="background-color:#f9f9f9; padding:10px; border-radius:8px";>Vue</div>div>
   <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">Vue</p>
   <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">TypeScript </p>
   <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">TailwindCSS </p>
