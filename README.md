@@ -1,28 +1,19 @@
 
 # Bento - Figma to Frontend
 
----
-
 ![Preview](./src/assets/preview.jpeg)
 
-
----
+#
+- ✨ Modern & Minimal Hero Layouts
+- 🎨 Clean Landing Page UI
+- 🚀 Figma to Frontend: Hero Sections
 
 ## 🛠️ Tecnologías utilizadas
-<div align="center" style="background-color:#f9f9f9; padding:10px; border-radius:8px;">
-  <p>Vite</p>
-  <p>Vue</p>
-  <p>TypeScript </p>
-  <p>TailwindCSS </p>
-  <p>Figma Community (diseño base) </p>
-</div>
-
-
-# ✨ Modern & Minimal Hero Layouts
-
-# 🎨 Clean Landing Page UI
-
-# 🚀 Figma to Frontend: Hero Sections
+- Vite
+- Vue
+- TypeScript
+- TailwindCSS
+- Figma Community (diseño base)
 
 
 ## 🙌 Créditos
