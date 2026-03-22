@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "./assets/css/general-sans.css";
+@import "tailwindcss";
+:root {
+  font-family: "GeneralSans-Variable";
+  line-height: 1.5;
+  font-weight: 400;
+  color: #2E2E2E;
+  background: linear-gradient(110.55deg, #FBF2DD 1.4%, #FFD77E 98.6%);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input:-internal-autofill-selected{
+  background-color: #fff !important;
+}
+html, body, #app{
+  height: 100%;
+}
+
+@media (prefers-color-scheme: light) {
+  
+}
