@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 @import "./assets/css/general-sans.css";
 @import "tailwindcss";
+@tailwindcss base;
+@tailwindcss components;
+@tailwind utilities;
 :root {
   font-family: "GeneralSans-Variable";
   line-height: 1.5;
@@ -19,4 +22,8 @@ input:-internal-autofill-selected{
 }
 html, body, #app{
   height: 100%;
+}
+
+@media (prefers-color-scheme: light) {
+  
 }
