@@ -9,20 +9,18 @@
 ---
 
 ## 🛠️ Tecnologías utilizadas
-<div align="center" style="background-color:#f9f9f9; padding:10px; border-radius:8px;">
-  <p>Vite</p>
-  <p>Vue</p>
-  <p>TypeScript </p>
-  <p>TailwindCSS </p>
-  <p>Figma Community (diseño base) </p>
+<div align="start">
+  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">Vite</p>
+  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">Vue</p>
+  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">TypeScript </p>
+  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">TailwindCSS </p>
+  <p style="background-color:#f9f9f9; padding:10px; border-radius:8px;">Figma Community (diseño base) </p>
 </div>
 
 
-# ✨ Modern & Minimal Hero Layouts
-
-# 🎨 Clean Landing Page UI
-
-# 🚀 Figma to Frontend: Hero Sections
+- ✨ Modern & Minimal Hero Layouts
+- 🎨 Clean Landing Page UI
+- 🚀 Figma to Frontend: Hero Sections
 
 
 ## 🙌 Créditos
